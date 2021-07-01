@@ -1,0 +1,16 @@
+ingresso,stanza1,7
+ingresso,stanza2,2
+stanza1,stanza3,4
+stanza3,stanza4,5
+stanza4,stanza5,4
+stanza5,stanza6,4
+stanza2,stanza7,8
+stanza7,stanza8,200
+stanza6,stanza9,10
+stanza8,stanzabo,2
+stanza8,stanzabo2,2
+stanza8,stanzabo3,5
+stanza1,stanzabo,8
+stanza1,prova,5
+stanza1,prova2,5
+stanza3,prova5,2
